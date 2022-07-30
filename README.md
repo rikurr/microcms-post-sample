@@ -1,3 +1,3 @@
 # microcms-post-sample
 
-microCMSへJSONデータをPOSTやPATCH処理のサンプルです。
+POSTやPATCHを用いてmicroCMSのコンテンツ作成や更新を行う処理のサンプルです。
